@@ -1,0 +1,24 @@
+div#rollBox{
+    padding: 1em;
+    line-height: 150%;
+}
+
+#rollNickname, #rollEvent
+{
+   width:50%;
+}
+
+
+#rollNum, #rollRange{
+    width: 20%;
+}
+
+#nickName,#event,#num,#range{
+    color: #09D25E;
+}
+
+#rollButton{
+    background: green;
+    color: white;
+}
+
